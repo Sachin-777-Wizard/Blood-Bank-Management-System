@@ -1,0 +1,9 @@
+This is a python program which for a blood bank donation management system.
+It has the following qualities:-
+	->To add details of donor , if you are a donor.
+	
+	->To add details of receiver and to search for the blood group entered by receiver.  
+	
+	->After searching this program returns the details of the donors having blood group required by receiver.
+
+This program is created by SAS creationz
